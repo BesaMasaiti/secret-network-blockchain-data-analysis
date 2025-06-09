@@ -17,3 +17,4 @@ Key focus areas:
 - **Jupyter Notebooks** Exploratory analysis
 - **Vader**  Rule-based sentiment analysis for social media data
 - **Git/GitHub** Version control
+- **SQLmesh** Data transformation framework(tested out using it as an alternative to dbt)
